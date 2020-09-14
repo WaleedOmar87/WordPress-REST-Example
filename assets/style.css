@@ -1,0 +1,6 @@
+@import "../node_modules/bootstrap/dist//css/bootstrap.min.css";
+
+body {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
